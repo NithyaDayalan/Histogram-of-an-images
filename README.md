@@ -15,7 +15,7 @@ Print the image using imshow().
 ### Step 3 :
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
-### step 4 :
+### Step 4 :
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
 ### Step 5 :
