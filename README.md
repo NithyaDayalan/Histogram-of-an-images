@@ -6,19 +6,19 @@ To obtain a histogram for finding the frequency of pixels in an Image with pixel
 Anaconda - Python 3.7
 
 ## Algorithm :
-### Step1 :
+### Step 1 :
 Read the gray and color image using imread()
 
-### Step2 :
+### Step 2 :
 Print the image using imshow().
 
-### Step3 :
+### Step 3 :
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
-### step4 :
+### step 4 :
 Use calcHist() function to mark the image in graph frequency for gray and color image.
 
-### Step5 :
+### Step 5 :
 The Histogram of gray scale image and color image is shown.
 
 
